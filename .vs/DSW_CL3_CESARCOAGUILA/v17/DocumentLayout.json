@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|e:\\cibertec\\vciclo\\servicios web\\repos\\dsw_cl3_cesarcoaguila\\dsw_cl3_cesarcoaguila\\controllers\\negociosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|solutionrelative:dsw_cl3_cesarcoaguila\\controllers\\negociosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|e:\\cibertec\\vciclo\\servicios web\\repos\\dsw_cl3_cesarcoaguila\\dsw_cl3_cesarcoaguila\\repositorio\\dao\\proveedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|solutionrelative:dsw_cl3_cesarcoaguila\\repositorio\\dao\\proveedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|e:\\cibertec\\vciclo\\servicios web\\repos\\dsw_cl3_cesarcoaguila\\dsw_cl3_cesarcoaguila\\repositorio\\interfaces\\iproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|solutionrelative:dsw_cl3_cesarcoaguila\\repositorio\\interfaces\\iproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|e:\\cibertec\\vciclo\\servicios web\\repos\\dsw_cl3_cesarcoaguila\\dsw_cl3_cesarcoaguila\\repositorio\\interfaces\\ipais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|solutionrelative:dsw_cl3_cesarcoaguila\\repositorio\\interfaces\\ipais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|e:\\cibertec\\vciclo\\servicios web\\repos\\dsw_cl3_cesarcoaguila\\dsw_cl3_cesarcoaguila\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|solutionrelative:dsw_cl3_cesarcoaguila\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|e:\\cibertec\\vciclo\\servicios web\\repos\\dsw_cl3_cesarcoaguila\\dsw_cl3_cesarcoaguila\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|solutionrelative:dsw_cl3_cesarcoaguila\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|e:\\cibertec\\vciclo\\servicios web\\repos\\dsw_cl3_cesarcoaguila\\dsw_cl3_cesarcoaguila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|solutionrelative:dsw_cl3_cesarcoaguila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|e:\\cibertec\\vciclo\\servicios web\\repos\\dsw_cl3_cesarcoaguila\\dsw_cl3_cesarcoaguila\\repositorio\\dao\\paisdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42093D61-B08E-4FE6-93F9-A30836BBFE97}|DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA.csproj|solutionrelative:dsw_cl3_cesarcoaguila\\repositorio\\dao\\paisdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPais.cs",
+              "DocumentMoniker": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Repositorio\\Interfaces\\IPais.cs",
+              "RelativeDocumentMoniker": "DSW_CL3_CESARCOAGUILA\\Repositorio\\Interfaces\\IPais.cs",
+              "ToolTip": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Repositorio\\Interfaces\\IPais.cs",
+              "RelativeToolTip": "DSW_CL3_CESARCOAGUILA\\Repositorio\\Interfaces\\IPais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T05:50:00.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\appsettings.json",
+              "RelativeDocumentMoniker": "DSW_CL3_CESARCOAGUILA\\appsettings.json",
+              "ToolTip": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\appsettings.json",
+              "RelativeToolTip": "DSW_CL3_CESARCOAGUILA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T05:27:22.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NegociosApiController.cs",
+              "DocumentMoniker": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Controllers\\NegociosApiController.cs",
+              "RelativeDocumentMoniker": "DSW_CL3_CESARCOAGUILA\\Controllers\\NegociosApiController.cs",
+              "ToolTip": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Controllers\\NegociosApiController.cs",
+              "RelativeToolTip": "DSW_CL3_CESARCOAGUILA\\Controllers\\NegociosApiController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:56:30.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "proveedorDAO.cs",
+              "DocumentMoniker": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Repositorio\\DAO\\proveedorDAO.cs",
+              "RelativeDocumentMoniker": "DSW_CL3_CESARCOAGUILA\\Repositorio\\DAO\\proveedorDAO.cs",
+              "ToolTip": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Repositorio\\DAO\\proveedorDAO.cs",
+              "RelativeToolTip": "DSW_CL3_CESARCOAGUILA\\Repositorio\\DAO\\proveedorDAO.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAswIUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:01:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProveedor.cs",
+              "DocumentMoniker": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Repositorio\\Interfaces\\IProveedor.cs",
+              "RelativeDocumentMoniker": "DSW_CL3_CESARCOAGUILA\\Repositorio\\Interfaces\\IProveedor.cs",
+              "ToolTip": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Repositorio\\Interfaces\\IProveedor.cs",
+              "RelativeToolTip": "DSW_CL3_CESARCOAGUILA\\Repositorio\\Interfaces\\IProveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:49:28.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "paisDAO.cs",
+              "DocumentMoniker": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Repositorio\\DAO\\paisDAO.cs",
+              "RelativeDocumentMoniker": "DSW_CL3_CESARCOAGUILA\\Repositorio\\DAO\\paisDAO.cs",
+              "ToolTip": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Repositorio\\DAO\\paisDAO.cs",
+              "RelativeToolTip": "DSW_CL3_CESARCOAGUILA\\Repositorio\\DAO\\paisDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:00:49.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "DSW_CL3_CESARCOAGUILA\\Models\\Proveedor.cs",
+              "ToolTip": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Models\\Proveedor.cs",
+              "RelativeToolTip": "DSW_CL3_CESARCOAGUILA\\Models\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:09:26.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "DSW_CL3_CESARCOAGUILA\\Models\\Pais.cs",
+              "ToolTip": "E:\\CIBERTEC\\VCICLO\\SERVICIOS WEB\\repos\\DSW_CL3_CESARCOAGUILA\\DSW_CL3_CESARCOAGUILA\\Models\\Pais.cs",
+              "RelativeToolTip": "DSW_CL3_CESARCOAGUILA\\Models\\Pais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:09:01.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

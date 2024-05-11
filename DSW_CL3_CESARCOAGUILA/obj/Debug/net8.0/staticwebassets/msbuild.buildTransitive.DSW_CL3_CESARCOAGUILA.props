@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DSW_CL3_CESARCOAGUILA.props" />
+</Project>

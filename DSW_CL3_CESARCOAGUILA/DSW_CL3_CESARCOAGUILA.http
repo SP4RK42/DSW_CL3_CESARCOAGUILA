@@ -1,0 +1,6 @@
+@DSW_CL3_CESARCOAGUILA_HostAddress = http://localhost:5153
+
+GET {{DSW_CL3_CESARCOAGUILA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
